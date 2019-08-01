@@ -3,5 +3,6 @@
 目前此代码还在完善阶段，看起来也是一塌糊涂很是糟糕  
 Xvideo网址https://www.xvideos.com
 
-This is a small crawler for download porn video frome Xvideo  
+This is a small crawler for download porn video frome Xvideo.It is multithreading.  
+It looks messy but it does work!Enjoy.
 What is Xvideo? ------->https://www.xvideos.com
